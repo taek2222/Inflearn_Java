@@ -3,7 +3,7 @@ class MovieReview {
     String review;
 }
 
-public class Problem_1 {
+public class Problem1 {
     public static void main(String[] args) {
         MovieReview movieReview1 = new MovieReview();
         movieReview1.title = "인셉션";
